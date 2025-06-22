@@ -1,0 +1,15 @@
+.header-band {
+    display: flex;
+    flex-direction: row;
+    /*justify-content: space-between;*/
+    padding: 1rem;
+}
+
+#logo-img {
+    border-radius: 10%;
+}
+
+#right-menu-container{
+    display: flex;
+    align-items: flex-end;
+}
